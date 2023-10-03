@@ -6,7 +6,7 @@ This website is designed for desktop use but works seamlessly on mobile devices.
 
 ## Live Demo
 
-You can access the live demo of this website [here](https://rent-and-ride-gamma.vercel.app/).
+You can access the live demo of this website [here](https://rent-ride-car.vercel.app/).
 
 ## Technologies Used
 
@@ -33,7 +33,7 @@ Create a car search website with these features:
 
 ## Usage
 
-1. Visit the [Live Demo](https://rent-and-ride-gamma.vercel.app/).
+1. Visit the [Live Demo](https://rent-ride-car.vercel.app/).
 
 2. You can start searching for cars by entering keywords in the search bar.
 
