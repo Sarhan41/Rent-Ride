@@ -47,10 +47,8 @@ Create a car search website with these features:
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact Me:
+If you have any questions or feedback, feel free to contact me:
 
-1. [Email](sp.webdev2024@gmai.com)
-
-2. [GitHub](https://github.com/Sarhan41)
-
-3. [LinkedIn](https://www.linkedin.com/in/sarhan-patel-20241c)
+- [Email](sp.webdev2024@gmail.com)
+- [GitHub](https://github.com/Sarhan41)
+- [LinkedIn](https://www.linkedin.com/in/sarhan-patel-20241c)
